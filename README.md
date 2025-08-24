@@ -1,4 +1,4 @@
-# 🍕 Pizza Ordering System – Microservices (MERN + Next.js)
+# 🍕 Real‑Time Pizza Ordering System – Microservices (MERN + Next.js)
 
 A **production-ready pizza ordering platform** built using **Next.js, Node.js, Express, PostgreSQL, MongoDB, and Kafka**.  
 The system follows a **microservices architecture** with independent services for authentication, catalog, billing, and notifications.
